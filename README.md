@@ -1,0 +1,1 @@
+Simple user authentication that useses JavaScript Web Tokens, Bcrypt and Mongodb.
